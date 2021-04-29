@@ -1,1 +1,0 @@
-module load R/4.0.1-gimkl-2020a

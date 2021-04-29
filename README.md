@@ -15,3 +15,5 @@ The data is highly skewed which suggests a log transform would be useful. This w
 ![Figure 2](output/figure2_logCounts.png)
 
 This has improved the visualisation of the data.
+
+To re-run the analysis, simply run the Rscript included. To run on NeSI see the attached SLURM script.
